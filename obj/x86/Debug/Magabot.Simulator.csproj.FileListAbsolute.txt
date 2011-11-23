@@ -1,0 +1,13 @@
+D:\Artica\Moagabot\BitBucket\MagaBot\Magabot.Simulator\Magabot.Simulator\bin\x86\Debug\Content\square.xnb
+D:\Artica\Moagabot\BitBucket\MagaBot\Magabot.Simulator\Magabot.Simulator\bin\x86\Debug\Content\magabot_cm.xnb
+D:\Artica\Moagabot\BitBucket\MagaBot\Magabot.Simulator\Magabot.Simulator\bin\x86\Debug\Content\grid.xnb
+D:\Artica\Moagabot\BitBucket\MagaBot\Magabot.Simulator\Magabot.Simulator\bin\x86\Debug\Content\Font.xnb
+D:\Artica\Moagabot\BitBucket\MagaBot\Magabot.Simulator\Magabot.Simulator\bin\x86\Debug\Magabot.Simulator.exe.config
+D:\Artica\Moagabot\BitBucket\MagaBot\Magabot.Simulator\Magabot.Simulator\bin\x86\Debug\Magabot.Simulator.exe
+D:\Artica\Moagabot\BitBucket\MagaBot\Magabot.Simulator\Magabot.Simulator\bin\x86\Debug\Magabot.Simulator.pdb
+D:\Artica\Moagabot\BitBucket\MagaBot\Magabot.Simulator\Magabot.Simulator\bin\x86\Debug\Guibot.dll
+D:\Artica\Moagabot\BitBucket\MagaBot\Magabot.Simulator\Magabot.Simulator\bin\x86\Debug\Guibot.pdb
+D:\Artica\Moagabot\BitBucket\MagaBot\Magabot.Simulator\Magabot.Simulator\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Artica\Moagabot\BitBucket\MagaBot\Magabot.Simulator\Magabot.Simulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Artica\Moagabot\BitBucket\MagaBot\Magabot.Simulator\Magabot.Simulator\obj\x86\Debug\Magabot.Simulator.exe
+D:\Artica\Moagabot\BitBucket\MagaBot\Magabot.Simulator\Magabot.Simulator\obj\x86\Debug\Magabot.Simulator.pdb
